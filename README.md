@@ -155,3 +155,9 @@
 ## Rendering finale (immagine)
 
 ![alt text](Immagine_finale.png)
+
+## Riferimenti:
+
+- https://youtu.be/BiPoPMnU2VI?si=JZzPktJhgKr6gq9F
+- https://youtu.be/imbIsNAvUpM?si=w4Byq0mOoJFzrWx3
+- https://youtu.be/ktXD_WRMY8E?si=PB290MUgEvRsaA7d
