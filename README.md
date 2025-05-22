@@ -96,7 +96,7 @@
 
 - Dublico la gamba per ogni lato.
 
-![alt text](step16.png)
+![alt text](Step16.png)
 
 ### Step 17
 
